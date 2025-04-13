@@ -12,3 +12,6 @@ cd nextjs-dashboard
 
 https://nextjs.org/docs/app/building-your-application/optimizing/fonts#using-multiple-fonts
 https://fonts.google.com/?preview.text=tesrgfghf&preview.size=34
+
+git commit -m "msg"
+git push -u origin main
